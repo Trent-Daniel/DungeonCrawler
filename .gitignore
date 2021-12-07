@@ -1,1 +1,3 @@
-#./tutorials/openGL_19h/Excercise\ Files/visualstudio/*
+tutorials/openGL_19h/Exercise\ Files/visualstudio/*
+!tutorials/openGL_19h/Exercise\ Files/visualstudio/run_cmake_commands.sh
+!tutorials/openGL_19h/Exercise\ Files/visualstudio/settings.sh
