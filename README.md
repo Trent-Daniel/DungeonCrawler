@@ -11,9 +11,9 @@
     1.5 Make a subdirectory in 'Exercise Files' called 'visualstudio', and cd into that new directory.
 
     1.6 Run
-    `
+    ```
     CMake -G "Visual Studio 17" -A win32 ..
-    `
+    ```
 
     1.7 After CMake finishes building, from the 'visualstudio' folder, open 'UaR_OpenGL.sln'.
 
